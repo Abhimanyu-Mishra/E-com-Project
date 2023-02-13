@@ -1,0 +1,17 @@
+.head{
+    color: rgb(235, 55, 19);
+}
+.main-div{
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    padding: 1%;
+}
+.nav{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.nav:hover{
+    color: rgb(235, 55, 19);
+}

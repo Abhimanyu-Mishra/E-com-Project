@@ -1,0 +1,43 @@
+.maindiv{
+    width: 25%;
+    background-color: antiquewhite;
+    border-radius: 3%;
+    margin: 3%;
+}
+.img{
+    width: 100%;
+    text-align: center;
+    height: 40%;
+    border-radius: 15px;
+}
+.price{
+    padding: 1%;
+    margin-left: 6%;
+
+}
+.oprice{
+    margin-left: 6%;
+    padding: 1%;
+    text-decoration: line-through;
+}
+.buy{
+    margin-left: 32%;
+    border-radius: 15%;
+    padding: 2% 4%;
+    border: 1px dotted pink;
+    margin-bottom: 10px;
+    background:linear-gradient(to right,rgb(236, 122, 209),rgb(138, 248, 193),rgb(131, 224, 131)) ;
+}
+.btn{
+    margin-left: 6%;
+    margin-bottom: 10px;
+    border: 1px dotted pink;
+
+    border-radius: 15%;
+    padding: 2% 4%;
+    color: white;
+    background:linear-gradient(to right,rgba(42, 11, 42, 0.945),rgb(66, 36, 113),rgb(179, 45, 56)) ;
+}
+.name{
+    margin-left: 2%;
+}

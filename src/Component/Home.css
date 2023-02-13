@@ -1,0 +1,7 @@
+.home{
+    background:linear-gradient(to right,rgb(217, 135, 148),rgb(252, 199, 208));
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
